@@ -1,0 +1,10 @@
+{
+    "conexion": {
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "Junio2023+-*",
+        "database" : "api_rest",
+        "port" : "3307"
+    }
+
+}
